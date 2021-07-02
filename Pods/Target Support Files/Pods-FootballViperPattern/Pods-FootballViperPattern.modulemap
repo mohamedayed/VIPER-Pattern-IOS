@@ -1,0 +1,6 @@
+framework module Pods_FootballViperPattern {
+  umbrella header "Pods-FootballViperPattern-umbrella.h"
+
+  export *
+  module * { export * }
+}
